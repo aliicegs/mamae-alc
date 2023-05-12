@@ -1,4 +1,2 @@
 # mamae-alc
-mensagem para minha mamae
-
-Alice gatinha
+mensagem para minha mae
